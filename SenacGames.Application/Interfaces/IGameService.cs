@@ -7,7 +7,7 @@ using System.Text;
 namespace SenacGames.Application.Interfaces
 {
     // Contrato de serviço para operações relacionadas a jogos.
-    // Define as operaqções de negocio disponiveis
+    // Define as operaqções de negocio disponiveis cd
     public interface IGameService
     {
         // Busca jogos e categorias
